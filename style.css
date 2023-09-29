@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: #FFE26C;
+
+}
+
+.div2{
+    background-color: #FFE26C;
+    width: 100%;
+    height: 400px;
+}
+
+.div2 img{
+    margin-top: 35px;
+    margin-left: 80px;
+}
+
+.div2 {
+
+    padding-top: 30px;
+}
+
